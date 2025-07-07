@@ -20,3 +20,5 @@ Issue resolved after clear communication of my findings.
 
 # Complex Query:
 https://drive.google.com/file/d/16FvN1hrvCDlCJi17pSvqWvEf5CIEniYJ/view?usp=sharing
+
+https://drive.google.com/file/d/1QwiClZq2JbcvMNCfE28oZTTP7fzv8jv_/view?usp=sharing
